@@ -1,4 +1,4 @@
-# Embedding Geometry
+# Z3-based equivalence checks for pruned vs full Random Forests
 
 This repository contains the exact code used to generate the figures and results for the blog post:
 
